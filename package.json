@@ -1,0 +1,27 @@
+{
+  "name": "ds-stack",
+  "version": "0.0.1",
+  "description": "Data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renecardozo/ds-stack.git"
+  },
+  "keywords": [
+    "stack"
+  ],
+  "author": "Rene Cardozo <rene.cardozo.2014@gamil.com>",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/renecardozo/ds-stack/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/renecardozo/ds-stack/issues"
+  },
+  "homepage": "https://github.com/renecardozo/ds-stack#readme"
+}
